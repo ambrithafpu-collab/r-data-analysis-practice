@@ -24,3 +24,6 @@ In this project, I:
 - Created a scatter plot with regression line
 
 This project demonstrates basic statistical analysis and data visualization skills in R.
+## 📈 MPG vs Horsepower Plot
+
+![MPG Plot](mtcars_scatter_plot.png)
