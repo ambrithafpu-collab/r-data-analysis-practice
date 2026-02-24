@@ -15,3 +15,12 @@ This repository contains basic data analysis and visualization projects using R.
 - Create clear visualizations
 
 More projects will be added as I continue learning.
+## 📊 Project 1: mtcars Analysis
+
+In this project, I:
+- Explored the built-in `mtcars` dataset
+- Performed correlation analysis
+- Conducted a t-test comparing transmission types
+- Created a scatter plot with regression line
+
+This project demonstrates basic statistical analysis and data visualization skills in R.
